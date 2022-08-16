@@ -39,3 +39,4 @@ I also added a file called `pkglist.txt` which contains all the AUR packages nee
     1. You have included `Option "TripleBuffer" "True"` as this will 'fix' the screen tearing on video playback.
     2. You did **Not** include `Option "ForceFullCompositionPipeline" "on"` as this will slow down gaming performance
 - The file `.config/polybar/config.ini` to add/remove/alter certain modules. For example the CPU module with a correct CPU temperature file path. 
+    - You should also change the `monitor = Dp-4` setting to whatever display you have. use `xrandr` to get the display names
