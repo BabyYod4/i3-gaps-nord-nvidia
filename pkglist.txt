@@ -1,0 +1,8 @@
+polybar
+picom-ibhagwan-git
+ttf-ibm-plex
+font-awesome-5
+ttf-unifont
+kitty
+rofi
+imagemagic
