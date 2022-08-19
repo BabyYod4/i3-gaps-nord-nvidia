@@ -4,7 +4,7 @@
 
 This is a fork of [i3-nord repo of Vista1nik](https://github.com/Vista1nik/i3-nord) which fixes some nvidia related driver issues and adds some minor tweaks to make it more useable in an 21:9 aspect ratio display. You can easily reused this on a 16:9 or different aspect ratio by changing some dpi values in different config files. See section "Things you might have to change".
 
-I also added a file called `pkglist.txt` which contains all the AUR packages needed in the setup. I am expecting you to have a stable Arch linux + i3-gaps setup before hand. You can find the vscode theme [here](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code). 
+I also added a file called `pkglist.txt` which contains all the AUR packages needed in the setup. You can also just run the `setup.sh` file instead. I am expecting you to have a stable Arch linux + i3-gaps setup before hand. You can find the vscode theme [here](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code). 
 
 
 ## Fixes/Changes:
