@@ -1,4 +1,21 @@
-[Settings]
-gtk-icon-theme-name = Nordic
-gtk-theme-name = Nordic
-gtk-font-name = IBM Plex Mono 12
+#[Settings]
+#gtk-icon-theme-name = Nordic
+#gtk-theme-name = Nordic
+#gtk-font-name = IBM Plex Mono 12
+
+
+gtk-can-change-accels = 1
+
+gtk-icon-theme-name = "Nordic"
+gtk-theme-name = "Nordic"
+
+style "user-font"
+{
+        font_name="IBM Plex Mono 12"
+}
+widget_class "*" style "user-font"
+gtk-font-name = "IBM Plex Mono 12"
+
+
+
+
