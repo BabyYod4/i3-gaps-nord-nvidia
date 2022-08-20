@@ -4,7 +4,7 @@ sudo pacman -Syyu
 sudo pacman -S base-devel
 sudo pacman -S yay
 
-cd downloads/vim
+cd downloads/vim-py
 makepkg -si --nocheck
 sudo pacman -U *.pkg.tar.zst
 cd ~
